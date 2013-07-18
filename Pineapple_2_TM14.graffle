@@ -969,7 +969,7 @@
 			<integer>3</integer>
 			<key>Points</key>
 			<array>
-				<string>{165.59999561309814, 93.599997520446777}</string>
+				<string>{158.39999580383301, 93.599997520446777}</string>
 				<string>{158.39999580383301, 172.79999542236328}</string>
 			</array>
 			<key>Style</key>
@@ -2240,11 +2240,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2279,11 +2279,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2318,11 +2318,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2352,27 +2352,10 @@
 			<string>Circle</string>
 			<key>Style</key>
 			<dict>
-				<key>fill</key>
-				<dict>
-					<key>Color</key>
-					<dict>
-						<key>b</key>
-						<string>0.901961</string>
-						<key>g</key>
-						<string>0.901961</string>
-						<key>r</key>
-						<string>0.901961</string>
-					</dict>
-				</dict>
 				<key>shadow</key>
 				<dict>
 					<key>Draws</key>
 					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Width</key>
-					<real>0.5</real>
 				</dict>
 			</dict>
 		</dict>
@@ -2396,11 +2379,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2435,11 +2418,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2474,11 +2457,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2513,11 +2496,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2552,11 +2535,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2591,11 +2574,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2630,11 +2613,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2669,11 +2652,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2708,11 +2691,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2747,11 +2730,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -3173,10 +3156,27 @@
 			<string>Circle</string>
 			<key>Style</key>
 			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.8</string>
+						<key>g</key>
+						<string>0.8</string>
+						<key>r</key>
+						<string>0.8</string>
+					</dict>
+				</dict>
 				<key>shadow</key>
 				<dict>
 					<key>Draws</key>
 					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Width</key>
+					<real>0.5</real>
 				</dict>
 			</dict>
 		</dict>
@@ -3222,11 +3222,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -3305,11 +3305,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -3400,11 +3400,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.8</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -3796,7 +3796,7 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs12 \cf0 R220}</string>
+\f0\fs12 \cf0 R221}</string>
 			</dict>
 			<key>Wrap</key>
 			<string>NO</string>
@@ -3817,14 +3817,21 @@
 			<dict>
 				<key>stroke</key>
 				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>1</string>
+						<key>g</key>
+						<string>0.501961</string>
+						<key>r</key>
+						<string>0</string>
+					</dict>
 					<key>HeadArrow</key>
 					<string>0</string>
 					<key>Legacy</key>
 					<true/>
 					<key>TailArrow</key>
 					<string>0</string>
-					<key>Width</key>
-					<real>0.5</real>
 				</dict>
 			</dict>
 			<key>Tail</key>
@@ -3886,14 +3893,14 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs12 \cf0 R220}</string>
+\f0\fs12 \cf0 R221}</string>
 			</dict>
 			<key>Wrap</key>
 			<string>NO</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{89.599997520446777, 136.7999963760376}, {25, 17}}</string>
+			<string>{{60.79999828338623, 151.19999599456787}, {25, 17}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -3944,7 +3951,7 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs12 \cf0 R220}</string>
+\f0\fs12 \cf0 R221}</string>
 			</dict>
 			<key>Wrap</key>
 			<string>NO</string>
@@ -3965,14 +3972,21 @@
 			<dict>
 				<key>stroke</key>
 				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>1</string>
+						<key>g</key>
+						<string>0.501961</string>
+						<key>r</key>
+						<string>0</string>
+					</dict>
 					<key>HeadArrow</key>
 					<string>0</string>
 					<key>Legacy</key>
 					<true/>
 					<key>TailArrow</key>
 					<string>0</string>
-					<key>Width</key>
-					<real>0.5</real>
 				</dict>
 			</dict>
 		</dict>
@@ -4152,7 +4166,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{158.39999580383301, 129.59999656677246}, {17, 17}}</string>
+			<string>{{158.39999580383301, 136.7999963760376}, {17, 17}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4210,7 +4224,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{143.99999618530273, 129.59999656677246}, {17, 17}}</string>
+			<string>{{143.99999618530273, 136.7999963760376}, {17, 17}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4268,7 +4282,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{128.09999656677246, 129.59999656677246}, {20, 17}}</string>
+			<string>{{128.09999656677246, 136.7999963760376}, {20, 17}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4384,7 +4398,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{113.69999694824219, 129.59999656677246}, {20, 17}}</string>
+			<string>{{113.69999694824219, 136.7999963760376}, {20, 17}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4458,17 +4472,12 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.701961</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.701961</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.701961</string>
 					</dict>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
 				</dict>
 				<key>stroke</key>
 				<dict>
@@ -4721,7 +4730,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{155.39999580383301, 71.999998092651367}, {25, 17}}</string>
+			<string>{{148.19999599456787, 71.999998092651367}, {25, 17}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4967,6 +4976,15 @@
 			<dict>
 				<key>stroke</key>
 				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>1</string>
+						<key>g</key>
+						<string>0.501961</string>
+						<key>r</key>
+						<string>0</string>
+					</dict>
 					<key>HeadArrow</key>
 					<string>0</string>
 					<key>Legacy</key>
@@ -4975,8 +4993,6 @@
 					<integer>1</integer>
 					<key>TailArrow</key>
 					<string>0</string>
-					<key>Width</key>
-					<real>0.5</real>
 				</dict>
 			</dict>
 			<key>Tail</key>
@@ -5076,17 +5092,12 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.701961</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.701961</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.701961</string>
 					</dict>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
 				</dict>
 				<key>stroke</key>
 				<dict>
@@ -5185,17 +5196,12 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.901961</string>
+						<string>0.701961</string>
 						<key>g</key>
-						<string>0.901961</string>
+						<string>0.701961</string>
 						<key>r</key>
-						<string>0.901961</string>
+						<string>0.701961</string>
 					</dict>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
 				</dict>
 				<key>stroke</key>
 				<dict>
@@ -5212,6 +5218,38 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\fs12 \cf0 Arduino Micro}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{93.599997520446777, 79.200003623962402}, {122.39999389648438, 194.39999389648438}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>1496</integer>
+			<key>Layer</key>
+			<integer>6</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.901961</string>
+						<key>g</key>
+						<string>0.901961</string>
+						<key>r</key>
+						<string>0.901961</string>
+					</dict>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
 			</dict>
 		</dict>
 	</array>
@@ -5246,7 +5284,7 @@
 			<key>Print</key>
 			<string>YES</string>
 			<key>View</key>
-			<string>YES</string>
+			<string>NO</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
@@ -5256,7 +5294,7 @@
 			<key>Print</key>
 			<string>YES</string>
 			<key>View</key>
-			<string>YES</string>
+			<string>NO</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
@@ -5276,7 +5314,7 @@
 			<key>Print</key>
 			<string>YES</string>
 			<key>View</key>
-			<string>YES</string>
+			<string>NO</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
@@ -5290,9 +5328,19 @@
 		</dict>
 		<dict>
 			<key>Lock</key>
-			<string>NO</string>
+			<string>YES</string>
 			<key>Name</key>
 			<string>Titles</string>
+			<key>Print</key>
+			<string>YES</string>
+			<key>View</key>
+			<string>YES</string>
+		</dict>
+		<dict>
+			<key>Lock</key>
+			<string>YES</string>
+			<key>Name</key>
+			<string>Base</string>
 			<key>Print</key>
 			<string>YES</string>
 			<key>View</key>
@@ -5321,7 +5369,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-07-09 04:44:13 +0000</string>
+	<string>2013-07-14 02:36:25 +0000</string>
 	<key>Modifier</key>
 	<string>Ichi Kanaya</string>
 	<key>NotesVisible</key>
